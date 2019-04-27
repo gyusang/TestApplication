@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">안녕!</string>
+    <string name="edit_message">이름을 입력하세요</string>
+    <string name="button_send">입력</string>
+    <string name="switch_to_big">크게</string>
+    <string name="switch_to_small">작게</string>
+</resources>
